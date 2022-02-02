@@ -4,7 +4,7 @@ This repository contains supporting assets for my research in modern Data Lake s
 
 Specifically, there's a [CloudFormation template](cloudformation/emr-studio-cluster.cfn.yaml) to create an EMR cluster and EMR Studio with the necessary requirements and Jupyter notebooks with the example walkthroughs.
 
-You can view the corresponding [blog post](https://dacort.dev/posts/modern-data-lake-storage-layers/) and [vide](https://www.youtube.com/watch?v=fryfx0Zg7KA)
+You can view the corresponding [blog post](https://dacort.dev/posts/modern-data-lake-storage-layers/) and [video](https://www.youtube.com/watch?v=fryfx0Zg7KA)
 
 ## Pre-requisites
 
