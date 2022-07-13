@@ -8,6 +8,7 @@ Parameters:
     Description: "Studio Name - can include letters (A-Z and a-z), numbers (0-9), and dashes (-)."
     AllowedPattern: ^[a-zA-Z0-9-]*$
     ConstraintDescription: "Must only include letters (A-Z and a-z), numbers (0-9), and dashes (-)."
+    Default: "data-lake-blog"
 
   # Use public Systems Manager Parameter for Latest AMI ID for Amazon Linux 2
   LatestAmiId:
